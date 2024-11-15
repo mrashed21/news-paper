@@ -20,7 +20,7 @@
 
 ## Usage
 
-1. Open your browser and go to `http://localhost:3000` to access the application.
+1. Open your browser and go to `https://news-paper-zeta.vercel.app/category/01` to access the application.
 2. Browse through the latest news articles.
 3. Sign up or log in to enjoy personalized access to features.
 
